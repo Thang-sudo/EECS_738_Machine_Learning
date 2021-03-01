@@ -4,8 +4,8 @@ Pick Two datasets from [Kaggle](https://www.kaggle.com/datasets) and build an al
 For this project, I have implemented **Kmeans clustering** algorithm which is an iterative proccess contains two phases:
 * Phase One: Distribute the data points to the nearest center of K centers 
 * Phase Two: Re-compute the centers by computing the means of their clusters.
-This procedure is repeated until there is no further change in assignment or the number of iterations pass limit.
-[Kmeans Algorithm](https://github.com/Thang-sudo/EECS_738_Machine_Learning/blob/main/Probably_Interesting_Data/Kmeans.ipynb) Implementation.
+This procedure is repeated until there is no further change in assignment or the number of iterations pass limit.\
+This is [Kmeans Algorithm](https://github.com/Thang-sudo/EECS_738_Machine_Learning/blob/main/Probably_Interesting_Data/Kmeans.ipynb) Implementation.
 
 ## Datasets
 Since Kmeans algorithm can not deal with categorical data, I choose these two datasets which contain mostly numerical data.
